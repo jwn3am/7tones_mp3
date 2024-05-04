@@ -4,10 +4,10 @@
 
 In this repository, you'll find a collection of MP3 files, each designed to resonate with the frequencies of the seven Chakras. These audio files are crafted for meditation or relaxation purposes, aiding in your journey towards balance and inner harmony. Each file loops through the Chakra frequency for a specified duration:
 
-- [`7tones_10seconds.mp3`](7tones_10seconds.mp3): Loops through the frequencies for 10 seconds each tone.
-- [`7tones_30seconds.mp3`](7tones_30seconds.mp3): Loops through the frequencies for 30 seconds each tone.
-- [`7tones_60seconds.mp3`](7tones_60seconds.mp3): Loops through the frequencies for 60 seconds each tone.
-- [`7tones_90seconds.mp3`](7tones_90seconds.mp3): Loops through the frequencies for 90 seconds each tone.
+- [`7tones_10seconds.mp3`](7tones_10seconds.mp3): 10 seconds each tone.
+- [`7tones_30seconds.mp3`](7tones_30seconds.mp3): 30 seconds each tone.
+- [`7tones_60seconds.mp3`](7tones_60seconds.mp3): 60 seconds each tone.
+- [`7tones_90seconds.mp3`](7tones_90seconds.mp3): 90 seconds each tone.
 
 Feel free to explore these files as part of your meditation practice and immerse yourself in the soothing vibrations of each Chakra.
 
