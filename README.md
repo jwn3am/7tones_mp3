@@ -17,7 +17,7 @@ These frequency audio files are intended for personal use only. They are not int
 
 ## License Information
 
-These frequency audio files are distributed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute these files for any purpose, commercial or non-commercial, without requiring additional permission, as long as you include the original copyright and license notice. Please refer to the LICENSE file in this repository for the full text of the MIT License.
+These frequency audio files are distributed under the MIT License. You are free to use, modify, and distribute these files for any purpose, commercial or non-commercial, without requiring additional permission, as long as you include the original copyright and license notice. Please refer to the [LICENSE](LICENSE.md) file in this repository for the full text of the MIT License.
 
 # Summary of the Chakras
 
